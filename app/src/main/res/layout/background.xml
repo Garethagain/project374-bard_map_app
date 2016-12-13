@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+     android:layout_height="match_parent"
+    android:background="@drawable/background">
+
+    <TextView
+        android:text="TextView"
+        android:id="@+id/textView4"
+        android:background="@drawable/bardcollegenew"
+        android:layout_marginRight="@android:dimen/notification_large_icon_width"
+        android:layout_marginLeft="@android:dimen/notification_large_icon_width"
+        android:layout_height="35dp"
+        android:layout_width="120dp" />
+
+    <Button
+        android:text="Button"
+        android:layout_width="wrap_content"
+        android:layout_height="?attr/listPreferredItemHeightLarge"
+        android:id="@+id/button"
+        android:background="@drawable/banner"
+        android:layout_below="@+id/button2"
+        android:layout_marginLeft="?attr/listPreferredItemHeightLarge"
+        android:layout_marginRight="?attr/listPreferredItemHeightLarge"
+        android:layout_marginTop="?android:attr/listPreferredItemPaddingStart" />
+
+    <Button
+        android:text="Button"
+        android:layout_width="wrap_content"
+        android:layout_height="?attr/listPreferredItemHeightLarge"
+        android:id="@+id/button2"
+        android:layout_below="@+id/button3"
+        android:background="@drawable/banner"
+        android:layout_marginLeft="?attr/listPreferredItemHeightLarge"
+        android:layout_marginRight="?attr/listPreferredItemHeightLarge"
+        android:layout_marginTop="?android:attr/listPreferredItemPaddingStart" />
+
+    <Button
+        android:text="Button"
+        android:layout_width="wrap_content"
+        android:layout_height="?android:attr/listPreferredItemHeightLarge"
+        android:id="@+id/button3"
+        android:background="@drawable/banner"
+        android:layout_below="@+id/textView4"
+        android:layout_marginLeft="?attr/listPreferredItemHeightLarge"
+        android:layout_marginRight="?attr/listPreferredItemHeightLarge"
+        android:layout_marginTop="?attr/listPreferredItemHeightLarge" />
+</RelativeLayout>

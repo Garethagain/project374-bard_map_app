@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/background">
+
+    <LinearLayout
+        android:id="@+id/space"
+        android:orientation="vertical"
+        android:layout_width="match_parent"
+        android:layout_alignParentTop="true"
+        android:layout_height="30dp"></LinearLayout>
+
+    <ImageView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        app:srcCompat="@drawable/bartape"
+        android:id="@+id/imageView2"
+        android:layout_marginRight="100dp"
+        android:layout_marginTop="-10dp"
+        android:layout_marginLeft="10dp" />
+
+    <ImageView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        app:srcCompat="@drawable/bartape"
+        android:id="@+id/imageView3"
+        android:layout_marginRight="100dp"
+        android:layout_marginTop="60dp"
+        android:layout_marginLeft="10dp" />
+
+    <ImageView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        app:srcCompat="@drawable/bartape"
+        android:id="@+id/imageView5"
+        android:layout_marginTop="130dp"
+        android:layout_marginRight="100dp"
+        android:layout_marginLeft="10dp" />
+
+    <ImageView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        app:srcCompat="@drawable/allthatbard"
+        android:id="@+id/imageView6"
+        android:padding="30dp"
+        android:layout_marginTop="440dp" />
+
+    <ListView
+        android:layout_below="@+id/space"
+        android:id="@+id/text1"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="@drawable/cloud"
+        android:divider="@drawable/sli"
+        android:layout_centerHorizontal="true"
+        android:layout_centerVertical="true"
+        android:layout_centerInParent="true"
+        android:textAlignment="center"
+        android:textFilterEnabled="true"
+        android:layout_marginLeft="100dp"
+        android:layout_marginTop="40dp">
+
+
+    </ListView>
+</RelativeLayout>

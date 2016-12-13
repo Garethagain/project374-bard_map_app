@@ -1,0 +1,156 @@
+<resources>
+    <string name="app_name">Bard App</string>
+    <string name="search_activity"></string>
+    <string name="start_search">Search</string>
+
+    <string name="title_activity_maps"></string>
+
+
+    <string-array name="array_house">
+        <item>Achebe House (offices)</item>
+        <item>Administrative Offices (Ludlow)</item>
+        <item>Admission (Hopson Cottage)</item>
+        <item>Albee (classrooms and offices)</item>
+        <item>Alumni Houses (residence halls)</item>
+        <item>New Toasters</item>
+        <item>Bluecher</item>
+        <item>Bourne</item>
+        <item>Leonard</item>
+        <item>Obreshkove</item>
+        <item>Shelov</item>
+        <item>Wolff</item>
+        <item>Honey</item>
+        <item>Old Toasters</item>
+        <item>Rovere</item>
+        <item>Rueger</item>
+        <item>Shafer</item>
+        <item>Steinway</item>
+        <item>Annandale Hotel (Publications and Public Relations Offices)</item>
+        <item>Anne Cox Chambers</item>
+        <item>Alumni/ae Center (Alumni/ae and Development; Bard MAT)</item>
+        <item>Aspinwall (classrooms and faculty offices)</item>
+        <item>Bard Center for Environmental Policy (Bard CEP) (Hegeman Hall)</item>
+        <item>Bard College Farm</item>
+        <item>Bard College Field Station</item>
+        <item>Bard Community Children’s Center</item>
+        <item>Bard Educational Opportunity Programs (BEOP) (Stone Row)</item>
+        <item>Bard Hall (recital space) Bard Prison Initiative (Montgomery Place Squash Court)</item>
+        <item>Barringer House (Institute for Writing and Thinking)</item>
+        <item>Bertelsmann Campus Center</item>
+        <item>Blithewood (Levy Economics Institute)</item>
+        <item>Bookstore (Bertelsmann)</item>
+        <item>Brook House (residence hall)</item>
+        <item>Buildings and Grounds</item>
+        <item>Career Development Office (Bertelsmann)</item>
+        <item>Carriage House (Central Services)</item>
+        <item>Center for Civic Engagement (Ward Manor Gatehouse)</item>
+        <item>Center for Curatorial Studies (CCS Bard)</item>
+        <item>Center for Moving Image Arts (Milton and Sally Avery Arts Center)</item>
+        <item>Center for Spiritual Life (Resnick Commons A)</item>
+        <item>Center for Student Life and Advising (Sottery Hall)</item>
+        <item>Chapel of the Holy Innocents</item>
+        <item>Community Garden</item>
+        <item>Cruger Village (residence halls)</item>
+        <item>Bartlett</item>
+        <item>Cruger</item>
+        <item>Keen North</item>
+        <item>Keen South</item>
+        <item>Oberholzer</item>
+        <item>Sawkill</item>
+        <item>Stephens</item>
+        <item>Treehouses</item>
+        <item>Spruce</item>
+        <item>Sycamore</item>
+        <item>Maple</item>
+        <item>Mulberry</item>
+        <item>Edith C. Blum Institute (Milton and Sally Avery Arts Center)</item>
+        <item>Fairbairn (see Warden’s Hall)</item>
+        <item>Feitler House (residence hall)</item>
+        <item>Financial Aid Office (Buildings and Grounds)</item>
+        <item>Finberg House (residence)</item>
+        <item>Fisher Annex (MFA Office)</item>
+        <item>Fisher Studio Arts Building</item>
+        <item>Gabrielle H. Reem and Herbert J. Kayden Center for Science and Computation</item>
+        <item>Gahagan House (Title IX/Gender Equity)</item>
+        <item>Griffiths House (John Cage Trust)</item>
+        <item>Hannah Arendt Center (McCarthy House)</item>
+        <item>Health and Counseling (Robbins House)</item>
+        <item>Hegeman Hall (classrooms, offices, Bard CEP, Rift Valley Institute, La Voz)</item>
+        <item>Henderson Computer Resources Center and Technology Laboratories (Annex)</item>
+        <item>Hessel Museum of Art Hirsch Hall (residence hall)</item>
+        <item>Honey Field</item>
+        <item>Hopson (see Warden’s Hall)</item>
+        <item>Hopson Cottage (Admission Office)</item>
+        <item>Institute for International Liberal Education (IILE) (Jim and Mary Ottaway Gatehouse for International Study)</item>
+        <item>Institute for Writing and Thinking (Barringer House)</item>
+        <item>Jim Ottaway Jr. Film Center (Milton and Sally Avery Arts Center)</item>
+        <item>Jim and Mary Ottaway Gatehouse for International Study (IILE)</item>
+        <item>Kline Commons (dining)</item>
+        <item>László Z. Bitó ’60 Auditorium</item>
+        <item>László Z. Bitó ’60 Conservatory Building</item>
+        <item>Learning Commons (Stone Row)</item>
+        <item>Levy Economics Institute (Blithewood)</item>
+        <item>Library (Stevenson, Hoffman, Kellogg)</item>
+        <item>Lorenzo Ferrari Field Complex Ludlow (administrative offices)</item>
+        <item>Lynda and Stewart Resnick Science Laboratories</item>
+        <item>Manor Annex (residence hall)</item>
+        <item>Manor House Café</item>
+        <item>Meditation Garden</item>
+        <item>Milton and Sally Avery Arts Center</item>
+        <item>Montgomery Place Campus (mansion, Coach House, Greenhouse, Squash Court)</item>
+        <item>Music Practice Rooms</item>
+        <item>Nursery School (Abigail Lundquist Botstein Nursery School)</item>
+        <item>Old Gym (Security Office)</item>
+        <item>Olin Humanities Building, Auditorium, and Language Center</item>
+        <item>parliament of reality</item>
+        <item>the President’s House</item>
+        <item>Preston Hall (classrooms, offices)</item>
+        <item>Residence Life and Housing (Shea House)</item>
+        <item>Resnick Commons (residence halls)</item>
+        <item>Brown</item>
+        <item>McCausland</item>
+        <item>Resnick Commons A</item>
+        <item>Resnick Commons B</item>
+        <item>Resnick Commons C</item>
+        <item>Resnick Commons D</item>
+        <item>Resnick Commons E</item>
+        <item>Resnick Commons F</item>
+        <item>Resnick Commons G</item>
+        <item>Resnick Commons H</item>
+        <item>Resnick Commons I</item>
+        <item>Resnick Commons J</item>
+        <item>Resnick Commons K</item>
+        <item>Resnick Commons L</item>
+        <item>Richard B. Fisher Center for the Performing Arts</item>
+        <item>Robbins House (residence hall, Health Center)</item>
+        <item>Rose Laboratories</item>
+        <item>Sands House (residence hall)</item>
+        <item>Security Office (Old Gym)</item>
+        <item>Seth Goldfine Memorial Rugby Field</item>
+        <item>Seymour (see Warden’s Hall)</item>
+        <item>Shea House (Residence Life and Housing)</item>
+        <item>Shafer House (Written Arts)</item>
+        <item>Shipping and Receiving (Buildings and Grounds)</item>
+        <item>Sottery Hall (Center for Student Life and Advising)</item>
+        <item>South Hall (residence hall)</item>
+        <item>Stevenson Athletic Center</item>
+        <item>Stone Row (Learning Commons, BEOP, residence halls)</item>
+        <item>North Hoffman</item>
+        <item>South Hoffman</item>
+        <item>McVickar</item>
+        <item>Potter</item>
+        <item>Student Accounts (Buildings and Grounds)</item>
+        <item>Tewksbury Hall (residence hall)</item>
+        <item>Tremblay Hall (residence hall)</item>
+        <item>Ward Manor (residence, Bard Music Festival Office)</item>
+        <item>Ward Manor Gatehouse (Center for Civic Engagement)</item>
+        <item>Warden’s Hall (faculty offices, residences)</item>
+        <item>Fairbairn</item>
+        <item>Hopson</item>
+        <item>Seymour</item>
+        <item>Weis Cinema (Bertelsmann)</item>
+        <item>Woods Studio (Photography)</item>
+
+    </string-array>
+
+</resources>
